@@ -1,0 +1,26 @@
+product_id,product_name,category
+1,Smartphone,Electronics
+2,Laptop,Electronics
+3,Headphones,Electronics
+4,Camera,Electronics
+5,Smartwatch,Electronics
+6,Sofa,Furniture
+7,Table,Furniture
+8,Chair,Furniture
+9,Bed,Furniture
+10,Bookshelf,Furniture
+11,Jeans,Clothing
+12,T-shirt,Clothing
+13,Jacket,Clothing
+14,Dress,Clothing
+15,Sneakers,Clothing
+16,Puzzle,Toys
+17,Doll,Toys
+18,Action Figure,Toys
+19,Board Game,Toys
+20,LEGO Set,Toys
+21,Apple,Food
+22,Bread,Food
+23,Cheese,Food
+24,Yogurt,Food
+25,Chicken,Food

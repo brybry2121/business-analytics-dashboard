@@ -1,0 +1,7 @@
+date,product,units_sold,price,promotion
+2025-09-01,WidgetA,100,19.99,1
+2025-09-01,WidgetB,80,29.99,0
+2025-09-02,WidgetA,120,19.99,1
+2025-09-02,WidgetB,90,29.99,1
+2025-09-03,WidgetA,50,19.99,0
+2025-09-03,WidgetB,60,29.99,0

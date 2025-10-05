@@ -1,0 +1,5 @@
+customer_id,customer_name,region,signup_date
+1,Alice Smith,East,2024-01-10
+2,Bob Jones,West,2024-02-22
+3,Carol White,South,2024-03-15
+4,Dave Brown,North,2024-04-05
